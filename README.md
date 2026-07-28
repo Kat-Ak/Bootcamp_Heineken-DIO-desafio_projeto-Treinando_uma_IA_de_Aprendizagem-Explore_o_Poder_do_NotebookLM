@@ -103,9 +103,7 @@ Foram selecionadas 5 fontes abertas oficiais para alimentar o NotebookLM e funda
    **Para leitura resumida (Relatório de Panorama Geral):**  
     `"Faça um relatório pesquisável sobre o panorama do mercado de bebidas não alcoólicas em padarias no Brasil."`  
    
-*Resultado disponível na pasta conjunto_de_prompts_reutilizaveis do repositório:* [`relatorio-Panorama_Estrategico_Mercado_Bebidas_Nao_Alcoolicas_Panificadoras-2025_2026.pdf`](./Conjunto%20de%20Prompts%20Reutiliz%C3%A1veis/relatorio-Panorama_Estrategico_Mercado_Bebidas_Nao_Alcoolicas_Panificadoras-2025_2026.pdf)
-
-
+*Resultado disponível na pasta conjunto_de_prompts_reutilizaveis do repositório:* [`relatorio-Panorama_Estrategico_Mercado_Bebidas_Nao_Alcoolicas_Panificadoras-2025_2026.pdf`](./conjunto_de_prompts_reutilizaveis/relatorio-Panorama_Estrategico_Mercado_Bebidas_Nao_Alcoolicas_Panificadoras-2025_2026.pdf)
 
    **Para fixação rápida (Infográfico Conceitual):** 
     `"Com base no resumo estruturado do mini-guia de estudos, gere um infográfico simples, claro e objetivo."`
