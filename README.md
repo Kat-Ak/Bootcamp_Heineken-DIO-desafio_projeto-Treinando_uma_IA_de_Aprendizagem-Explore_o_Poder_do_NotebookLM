@@ -115,7 +115,7 @@ Foram selecionadas 5 fontes abertas oficiais para alimentar o NotebookLM e funda
    **Para direcionamento tático (Guia Conceitual de Marketing — Relatório de Campo):** 
     `"Explicar o conceito de Next Best Action (NBA) e como ele pode ser transformado em ações práticas de cross-selling no balcão de uma padaria para atrair e fidelizar consumidores."`
 
-*Resultado disponível no repositório:* [`Guia-Mestre-NBA-e-a-Nova-Inteligência-de-Vendas-na-Panificação.pdf`](./Guia-Mestre-NBA-e-a-Nova-Inteligência-de-Vendas-na-Panificação.pdf)
+*Resultado disponível no repositório:* [`Guia-Mestre-NBA-e-a-Nova-Inteligência-de-Vendas-na-Panificação.pdf`](https://github.com/Kat-Ak/Bootcamp_Heineken-DIO-desafio_projeto-Treinando_uma_IA_de_Aprendizagem-Explore_o_Poder_do_NotebookLM/blob/main/Conjunto%20de%20Prompts%20Reutiliz%C3%A1veis/Guia-Mestre-NBA-e-a-Nova-Intelig%C3%AAncia-de-Vendas-na-Panifica%C3%A7%C3%A3o.pdf)
 
 ---
 
