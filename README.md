@@ -110,12 +110,12 @@ Foram selecionadas 5 fontes abertas oficiais para alimentar o NotebookLM e funda
    
 🎨 *Nota: Uma versão conceitual beta deste infográfico gráfico/visual foi mapeada e encontra-se acessível para consulta no desenvolvimento do projeto.*
  
-*Resultado disponível no repositório:* [`infografico-financas-estrategicas-padarias-b2b.png`]([./infografico-financas-estrategicas-padarias-b2b.png](https://github.com/Kat-Ak/Bootcamp_Heineken-DIO-desafio_projeto-Treinando_uma_IA_de_Aprendizagem-Explore_o_Poder_do_NotebookLM/blob/main/conjunto_de_prompts_reutilizaveis/infografico-Financas_Estrategicas_Padarias_B2B.png))
+*Resultado disponível na pasta conjunto_de_prompts_reutilizaveis do repositório:* [`infografico-Financas_Estrategicas_Padarias_B2B.png`](./conjunto_de_prompts_reutilizaveis/infografico-Financas_Estrategicas_Padarias_B2B.png)
 
    **Para direcionamento tático (Guia Conceitual de Marketing — Relatório de Campo):** 
     `"Explicar o conceito de Next Best Action (NBA) e como ele pode ser transformado em ações práticas de cross-selling no balcão de uma padaria para atrair e fidelizar consumidores."`
 
-*Resultado disponível no repositório:* [`Guia-Mestre-NBA-e-a-Nova-Inteligência-de-Vendas-na-Panificação.pdf`]([./https://github.com/Kat-Ak/Bootcamp_Heineken-DIO-desafio_projeto-Treinando_uma_IA_de_Aprendizagem-Explore_o_Poder_do_NotebookLM/blob/main/Conjunto%20de%20Prompts%20Reutiliz%C3%A1veis/Guia-Mestre-NBA-e-a-Nova-Intelig%C3%AAncia-de-Vendas-na-Panifica%C3%A7%C3%A3o.pdf](https://github.com/Kat-Ak/Bootcamp_Heineken-DIO-desafio_projeto-Treinando_uma_IA_de_Aprendizagem-Explore_o_Poder_do_NotebookLM/blob/main/conjunto_de_prompts_reutilizaveis/guia_mestre-NBA_e_Nova_Inteligencia_Vendas_Panificacao.pdf))
+*Resultado disponível na pasta conjunto_de_prompts_reutilizaveis do repositório:* [`Guia-Mestre-NBA-e-a-Nova-Inteligência-de-Vendas-na-Panificação.pdf`](./conjunto_de_prompts_reutilizaveis/guia_mestre-NBA_e_Nova_Inteligencia_Vendas_Panificacao.pdf)
 
 ---
 
