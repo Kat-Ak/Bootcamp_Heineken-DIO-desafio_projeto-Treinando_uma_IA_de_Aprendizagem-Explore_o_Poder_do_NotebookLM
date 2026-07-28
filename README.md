@@ -26,11 +26,11 @@ O objetivo de estudo com esse material é:
 
 Foram selecionadas 5 fontes abertas oficiais para alimentar o NotebookLM e fundamentar as análises financeiras, logísticas e de inteligência comercial:
 
-1.  **Fonte 1 (Finanças):** SEBRAE - *Guia Prático de Margem de Contribuição* -> Cartilha gerencial de 14 páginas sobre contabilidade gerencial e precificação para microempresas.
-2.  **Fonte 2 (Mercado):** ABIP - *Indicadores de Mercado: Performance da Panificação e Confeitaria (2025-2026)* -> Relatório setorial oficial de 35 páginas contendo os dados consolidados de faturamento, hábitos de consumo e fluxo de clientes no varejo de panificação.
-3.  **Fonte 3 (Vendas):** SciELO/RAE - *Determinantes do Desempenho Empresarial e das Vendas Cruzadas no Varejo (2013)* -> Artigo científico de 15 páginas indexado que analisa os fatores para a execução eficiente de estratégias de venda cruzada (*cross-selling*).
-4.  **Fonte 4 (Logística):** ILOS/Valor Setorial - *Revista Logística 2025* -> Relatório técnico oficial de 14 páginas contendo análises sobre a evolução dos custos logísticos de transporte e eficiência de distribuição no Brasil.
-5.  **Fonte 5 (Tecnologia):** Universidade Nova de Lisboa - *Next Best Action: A Data-Driven Marketing Approach (2019)* -> Dissertação de mestrado acadêmica de 67 páginas utilizada para fundamentar os conceitos de algoritmos preditivos e sistemas de recomendação aplicados ao contexto comercial.
+1.  **Fonte 1 (Finanças):** SEBRAE - *[Guia Prático de Margem de Contribuição](https://github.com/Kat-Ak/Bootcamp_Heineken-DIO-desafio_projeto-Treinando_uma_IA_de_Aprendizagem-Explore_o_Poder_do_NotebookLM/blob/main/fontes/fonte_01-Sebrae-Margem_Contribuicao.pdf)* -> Cartilha gerencial de 14 páginas sobre contabilidade gerencial e precificação para microempresas.
+2.  **Fonte 2 (Mercado):** ABIP - *[Indicadores de Mercado: Performance da Panificação e Confeitaria (2025-2026)](https://github.com/Kat-Ak/Bootcamp_Heineken-DIO-desafio_projeto-Treinando_uma_IA_de_Aprendizagem-Explore_o_Poder_do_NotebookLM/blob/main/fontes/fonte_02-Abip-Indicadores_Mercado-2025_2026.pdf)* -> Relatório setorial oficial de 35 páginas contendo os dados consolidados de faturamento, hábitos de consumo e fluxo de clientes no varejo de panificação.
+3.  **Fonte 3 (Vendas):** SciELO/RAE - *[Determinantes do Desempenho Empresarial e das Vendas Cruzadas no Varejo (2013)](https://github.com/Kat-Ak/Bootcamp_Heineken-DIO-desafio_projeto-Treinando_uma_IA_de_Aprendizagem-Explore_o_Poder_do_NotebookLM/blob/main/fontes/fonte_03-Scielo-Venda_Cruzada_Varejo.pdf)* -> Artigo científico de 15 páginas indexado que analisa os fatores para a execução eficiente de estratégias de venda cruzada (*cross-selling*).
+4.  **Fonte 4 (Logística):** ILOS/Valor Setorial - *[Revista Logística 2025](https://github.com/Kat-Ak/Bootcamp_Heineken-DIO-desafio_projeto-Treinando_uma_IA_de_Aprendizagem-Explore_o_Poder_do_NotebookLM/blob/main/fontes/fonte_04-Ilos_Valor-Logistica-2025.pdf)* -> Relatório técnico oficial de 14 páginas contendo análises sobre a evolução dos custos logísticos de transporte e eficiência de distribuição no Brasil.
+5.  **Fonte 5 (Tecnologia):** Universidade Nova de Lisboa - *[Next Best Action: A Data-Driven Marketing Approach (2019)](https://github.com/Kat-Ak/Bootcamp_Heineken-DIO-desafio_projeto-Treinando_uma_IA_de_Aprendizagem-Explore_o_Poder_do_NotebookLM/blob/main/fontes/fonte_05-Nova_Ims-Next_Best_Action.pdf)* -> Dissertação de mestrado acadêmica de 67 páginas utilizada para fundamentar os conceitos de algoritmos preditivos e sistemas de recomendação aplicados ao contexto comercial.
 
 ---
 
@@ -103,19 +103,19 @@ Foram selecionadas 5 fontes abertas oficiais para alimentar o NotebookLM e funda
    **Para leitura resumida (Relatório de Panorama Geral):**  
     `"Faça um relatório pesquisável sobre o panorama do mercado de bebidas não alcoólicas em padarias no Brasil."`  
    
-*Resultado disponível no repositório:* [`Conjunto de Prompts Reutilizáveis/relatorio-panorama-estrategico-o-mercado-de-bebidas-nao-alcoolicas-em-panificadoras-2025-2026.pdf`](https://github.com/Kat-Ak/Bootcamp_Heineken-DIO-desafio_projeto-Treinando_uma_IA_de_Aprendizagem-Explore_o_Poder_do_NotebookLM/blob/main/Conjunto%20de%20Prompts%20Reutiliz%C3%A1veis/relatorio-panorama-estrategico-o-mercado-de-bebidas-nao-alcoolicas-em-panificadoras-2025-2026.pdf)
+*Resultado disponível no repositório:* [`Conjunto de Prompts Reutilizáveis/relatorio-panorama-estrategico-o-mercado-de-bebidas-nao-alcoolicas-em-panificadoras-2025-2026.pdf`]([./https://github.com/Kat-Ak/Bootcamp_Heineken-DIO-desafio_projeto-Treinando_uma_IA_de_Aprendizagem-Explore_o_Poder_do_NotebookLM/blob/main/Conjunto%20de%20Prompts%20Reutiliz%C3%A1veis/relatorio-panorama-estrategico-o-mercado-de-bebidas-nao-alcoolicas-em-panificadoras-2025-2026.pdf](https://github.com/Kat-Ak/Bootcamp_Heineken-DIO-desafio_projeto-Treinando_uma_IA_de_Aprendizagem-Explore_o_Poder_do_NotebookLM/blob/main/Conjunto%20de%20Prompts%20Reutiliz%C3%A1veis/relatorio-panorama-estrategico-o-mercado-de-bebidas-nao-alcoolicas-em-panificadoras-2025-2026.pdf)](https://github.com/Kat-Ak/Bootcamp_Heineken-DIO-desafio_projeto-Treinando_uma_IA_de_Aprendizagem-Explore_o_Poder_do_NotebookLM/blob/main/conjunto_de_prompts_reutilizaveis/relatorio-Panorama_Estrategico_Mercado_Bebidas_Nao_Alcoolicas_Panificadoras-2025_2026.pdf))
 
    **Para fixação rápida (Infográfico Conceitual):** 
     `"Com base no resumo estruturado do mini-guia de estudos, gere um infográfico simples, claro e objetivo."`
    
 🎨 *Nota: Uma versão conceitual beta deste infográfico gráfico/visual foi mapeada e encontra-se acessível para consulta no desenvolvimento do projeto.*
  
-*Resultado disponível no repositório:* [`infografico-financas-estrategicas-padarias-b2b.png`](./infografico-financas-estrategicas-padarias-b2b.png)
+*Resultado disponível no repositório:* [`infografico-financas-estrategicas-padarias-b2b.png`]([./infografico-financas-estrategicas-padarias-b2b.png](https://github.com/Kat-Ak/Bootcamp_Heineken-DIO-desafio_projeto-Treinando_uma_IA_de_Aprendizagem-Explore_o_Poder_do_NotebookLM/blob/main/conjunto_de_prompts_reutilizaveis/infografico-Financas_Estrategicas_Padarias_B2B.png))
 
    **Para direcionamento tático (Guia Conceitual de Marketing — Relatório de Campo):** 
     `"Explicar o conceito de Next Best Action (NBA) e como ele pode ser transformado em ações práticas de cross-selling no balcão de uma padaria para atrair e fidelizar consumidores."`
 
-*Resultado disponível no repositório:* [`Guia-Mestre-NBA-e-a-Nova-Inteligência-de-Vendas-na-Panificação.pdf`](https://github.com/Kat-Ak/Bootcamp_Heineken-DIO-desafio_projeto-Treinando_uma_IA_de_Aprendizagem-Explore_o_Poder_do_NotebookLM/blob/main/Conjunto%20de%20Prompts%20Reutiliz%C3%A1veis/Guia-Mestre-NBA-e-a-Nova-Intelig%C3%AAncia-de-Vendas-na-Panifica%C3%A7%C3%A3o.pdf)
+*Resultado disponível no repositório:* [`Guia-Mestre-NBA-e-a-Nova-Inteligência-de-Vendas-na-Panificação.pdf`]([./https://github.com/Kat-Ak/Bootcamp_Heineken-DIO-desafio_projeto-Treinando_uma_IA_de_Aprendizagem-Explore_o_Poder_do_NotebookLM/blob/main/Conjunto%20de%20Prompts%20Reutiliz%C3%A1veis/Guia-Mestre-NBA-e-a-Nova-Intelig%C3%AAncia-de-Vendas-na-Panifica%C3%A7%C3%A3o.pdf](https://github.com/Kat-Ak/Bootcamp_Heineken-DIO-desafio_projeto-Treinando_uma_IA_de_Aprendizagem-Explore_o_Poder_do_NotebookLM/blob/main/conjunto_de_prompts_reutilizaveis/guia_mestre-NBA_e_Nova_Inteligencia_Vendas_Panificacao.pdf))
 
 ---
 
