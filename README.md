@@ -121,6 +121,7 @@ Foram selecionadas 5 fontes abertas oficiais para alimentar o NotebookLM e funda
 
 ## ✨ Conclusão do Treinamento e Curadoria Analítica
 
-A imersão nas capacidades nativas do Google NotebookLM evidenciou o poder de transformar dados frios e relatórios setoriais densos em Prontidão Comercial. A curadoria de fontes oficiais (SEBRAE, ABIP, SciELO, ILOS) serviu como uma âncora factual inabalável, mitigando alucinações e gerando formatos de saída estruturados e acionáveis.
+A imersão nas capacidades nativas do Google NotebookLM evidenciou o poder de transformar dados frios e relatórios setoriais densos em Prontidão Comercial. 
+A curadoria de fontes institucionais e acadêmicas confiáveis (SEBRAE, ABIP, SciELO, ILOS e Universidade Nova de Lisboa) serviu como uma base factual para as análises, contribuindo para reduzir alucinações e permitindo identificar e corrigir extrapolações da IA.
 
 A validação do Relatório de Panorama Geral, do Infográfico Conceitual e do Guia Mestre de Marketing baseado no framework Next Best Action (NBA) comprovou que é possível construir abordagens de venda sugestiva de alta conversão sem verba de marketing. A inteligência de dados aplicada ao balcão permitiu converter as dores tradicionais do varejista em argumentos matemáticos de lucro, garantindo que o mix premium de bebidas seja inserido no mercado através de ganho de margem e custo marginal zero.
