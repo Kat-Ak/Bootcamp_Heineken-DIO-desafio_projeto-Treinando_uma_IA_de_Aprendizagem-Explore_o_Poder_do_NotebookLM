@@ -2,7 +2,7 @@
 
 # 🎓 Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM
 
-Desafio de Projeto Prático desenvolvido no Bootcamp Heineken — Inteligência Artificial Aplicada a Vendas (DIO), focado na exploração e domínio do ecossistema do Google NotebookLM.
+Desafio de Projeto Prático desenvolvido no Bootcamp Heineken — Inteligência Artificial Aplicada a Vendas (DIO), focado na exploração das funcionalidades do Google NotebookLM para organização, análise e consolidação de informações.
 
 ---
 
@@ -19,12 +19,14 @@ O objetivo de estudo com esse material é:
    Analisar a eficiência do uso do espaço físico em padarias (**Giro de Ativos**) para eliminar o custo de oportunidade do comerciante.
    
    Aprender a utilizar a Inteligência Artificial como assistente de vendas consultivas e ferramenta de fixação de conhecimento.
-
+   
+   Explorar recursos do NotebookLM para sintetizar conteúdos, realizar consultas fundamentadas nas fontes e gerar materiais de apoio ao estudo.
+   
 ---
 
 ## 🔍 Curadoria de Fontes
 
-Foram selecionadas 5 fontes abertas oficiais para alimentar o NotebookLM e fundamentar as análises financeiras, logísticas e de inteligência comercial:
+Foram selecionadas 5 fontes abertas oficiais para alimentar e fundamentar os estudos e os testes realizados no NotebookLM:
 
 1.  **Fonte 1 (Finanças):** SEBRAE - *[Guia Prático de Margem de Contribuição](https://github.com/Kat-Ak/Bootcamp_Heineken-DIO-desafio_projeto-Treinando_uma_IA_de_Aprendizagem-Explore_o_Poder_do_NotebookLM/blob/main/fontes/fonte_01-Sebrae-Margem_Contribuicao.pdf)* -> Cartilha gerencial de 14 páginas sobre contabilidade gerencial e precificação para microempresas.
 2.  **Fonte 2 (Mercado):** ABIP - *[Indicadores de Mercado: Performance da Panificação e Confeitaria (2025-2026)](https://github.com/Kat-Ak/Bootcamp_Heineken-DIO-desafio_projeto-Treinando_uma_IA_de_Aprendizagem-Explore_o_Poder_do_NotebookLM/blob/main/fontes/fonte_02-Abip-Indicadores_Mercado-2025_2026.pdf)* -> Relatório setorial oficial de 35 páginas contendo os dados consolidados de faturamento, hábitos de consumo e fluxo de clientes no varejo de panificação.
@@ -82,7 +84,7 @@ Foram selecionadas 5 fontes abertas oficiais para alimentar o NotebookLM e funda
 
 ### 📊 Resumo Estruturado
 
-   **Inteligência de Dados vs. Verba:** Quando não há verba para descontos ou marketing, a expansão de mercado ocorre mapeando demandas reprimidas e gaps de portfólio em clientes que já estão na base de dados.
+   **Inteligência de Dados vs. Verba:** A análise das fontes mostrou que, quando não há verba para descontos ou marketing, a expansão de mercado ocorre mapeando demandas reprimidas e gaps de portfólio em clientes que já estão na base de dados.
 
    **A Dinâmica Diurna da Padaria:** Padarias faturam o dia todo. O portfólio alcoólico atende a noite, enquanto o portfólio não alcoólico captura o fluxo financeiro do café da manhã, almoço e lanches diurnos.
 
@@ -99,6 +101,8 @@ Foram selecionadas 5 fontes abertas oficiais para alimentar o NotebookLM e funda
 ---
 
 ## 🔄 Conjunto de Prompts Reutilizáveis | Formatos Nativos Utilizados (Para revisões futuras)
+
+Esses materiais representam exemplos de saídas geradas pelo NotebookLM durante os testes realizados. Eles foram mantidos como registro do processo de exploração da ferramenta.
 
    **Para leitura resumida (Relatório de Panorama Geral):**  
     `"Faça um relatório pesquisável sobre o panorama do mercado de bebidas não alcoólicas em padarias no Brasil."`  
@@ -121,7 +125,6 @@ Foram selecionadas 5 fontes abertas oficiais para alimentar o NotebookLM e funda
 
 ## ✨ Conclusão do Treinamento e Curadoria Analítica
 
-A imersão nas capacidades nativas do Google NotebookLM evidenciou o poder de transformar dados frios e relatórios setoriais densos em Prontidão Comercial. 
-A curadoria de fontes institucionais e acadêmicas confiáveis (SEBRAE, ABIP, SciELO, ILOS e Universidade Nova de Lisboa) serviu como uma base factual para as análises, contribuindo para reduzir alucinações e permitindo identificar e corrigir extrapolações da IA.
+A aplicação das funcionalidades do Google NotebookLM demonstrou como a combinação de fontes confiáveis e consultas bem estruturadas facilita a compreensão de temas complexos. Durante o desenvolvimento do projeto, foi possível sintetizar documentos extensos, identificar limitações das respostas geradas, refinar prompts para reduzir alucinações e produzir materiais de estudo em diferentes formatos, como relatórios, resumos e infográficos.
 
-A validação do Relatório de Panorama Geral, do Infográfico Conceitual e do Guia Mestre de Marketing baseado no framework Next Best Action (NBA) comprovou que é possível construir abordagens de venda sugestiva de alta conversão sem verba de marketing. A inteligência de dados aplicada ao balcão permitiu converter as dores tradicionais do varejista em argumentos matemáticos de lucro, garantindo que o mix premium de bebidas seja inserido no mercado através de ganho de margem e custo marginal zero.
+A experiência reforçou a importância da curadoria de fontes e da formulação de perguntas claras para obter respostas consistentes, mostrando como ferramentas de IA podem apoiar o aprendizado ativo e a organização do conhecimento em contextos profissionais.
